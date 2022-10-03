@@ -1,0 +1,11 @@
+C:\Users\Tichs\source\C#\LINQ\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+C:\Users\Tichs\source\C#\LINQ\LINQ\obj\Debug\LINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\source\C#\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\source\C#\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Tichs\source\C#\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\Tichs\source\C#\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Tichs\source\C#\LINQ\LINQ\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tichs\source\C#\LINQ\LINQ\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tichs\source\C#\LINQ\LINQ\obj\Debug\LINQ.csproj.CopyComplete
+C:\Users\Tichs\source\C#\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\Tichs\source\C#\LINQ\LINQ\obj\Debug\LINQ.pdb
